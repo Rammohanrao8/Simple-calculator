@@ -37,7 +37,7 @@ int main(){
             cout << "result : " << result << endl;
             break;
         default:
-            cout <<"Please enter the valid operator and numbers..!" << endl;
+            cout <<"Please enter the valid operator(+,-,*,/) and numbers..!" << endl;
             break;
     }
 
